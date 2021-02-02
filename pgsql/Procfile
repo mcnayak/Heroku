@@ -1,0 +1,2 @@
+web: python rel2jsonrec.py
+worker: python rel2jsonrec.py
